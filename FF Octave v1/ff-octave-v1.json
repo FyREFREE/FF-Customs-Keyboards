@@ -1,0 +1,34 @@
+[
+  {
+    "name": "FF Octave v1",
+    "author": "FyRE_FREE",
+    "notes": "The FF octave is a F-row + Layer Key only board designed as a MIDI device as well as a functional F-row. ",
+    "switchMount": "cherry",
+    "pcb": true
+  },
+  [
+    {
+      "a": 7
+    },
+    "Layer",
+    {
+      "d": true
+    },
+    "FF",
+    {
+      "a": 4
+    },
+    "F1\n\n\n\nC",
+    "F2\n\n\n\nC#",
+    "F3\n\n\n\nD",
+    "F4\n\n\n\nD#",
+    "F5\n\n\n\nE",
+    "F6\n\n\n\nF",
+    "F7\n\n\n\nF#",
+    "F8\n\n\n\nG",
+    "F9\n\n\n\nG#",
+    "F10\n\n\n\nA",
+    "F11\n\n\n\nA#",
+    "F12\n\n\n\nC"
+  ]
+]
